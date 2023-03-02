@@ -1,0 +1,12 @@
+# generated certificates
+certificates/*.jks
+crl-files/*.crl
+
+# jar files
+**/*.jar
+
+# run-time files
+logs/
+h2/
+shell-commands/
+ssh/
