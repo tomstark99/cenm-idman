@@ -2,6 +2,9 @@
 certificates/*.jks
 crl-files/*.crl
 
+# downloaded tools
+tools/*
+
 # jar files
 **/*.jar
 
