@@ -13,3 +13,4 @@ logs/
 h2/
 shell-commands/
 ssh/
+identitymanager.conf
